@@ -1531,30 +1531,18 @@ body {
 .cid-qSOPwIvuKA .mbr-text,
 .cid-qSOPwIvuKA .mbr-section-btn {
   color: #ffffff;
-  text-align: left;
+  text-align: center;
 }
-.cid-qSORS8quIF {
-  background: #ffffff;
+.cid-qSOPwIvuKA H2 {
+  text-align: center;
 }
-.cid-qSORS8quIF .image-block {
-  margin: auto;
-  width: 100% !important;
+.cid-qSP7hL97sJ {
+  background-image: url("../../../assets/images/cover-photo-spring-1281x510.jpg");
 }
-.cid-qSORS8quIF figcaption {
-  position: relative;
+.cid-qSP7hL97sJ .mbr-text,
+.cid-qSP7hL97sJ .mbr-section-btn {
+  color: #ffffff;
 }
-.cid-qSORS8quIF figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qSORS8quIF .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qSOS1bMPlI {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+.cid-qSP7hL97sJ H1 {
+  color: #ffffff;
 }
